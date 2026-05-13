@@ -5,5 +5,3 @@ langchain-text-splitters
 langchain-groq
 faiss-cpu
 python-dotenv
-google-generativeai
-langdetect
